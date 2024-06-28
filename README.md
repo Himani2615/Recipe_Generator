@@ -11,7 +11,9 @@ Recipe Generator is a web application that allows users to search for recipes ba
 # Features
 
    Search by Criteria: Users can specify cuisine type, meal type, and ingredients to find recipes.
+   
    Random Recipes: Displays a selection of randomly generated recipes.
+   
    Clickable Recipes: Each recipe displayed is clickable, directing users to the full recipe details on a new tab.
 
 # Technologies Used
