@@ -10,9 +10,9 @@ Recipe Generator is a web application that allows users to search for recipes ba
 
 # Features
 
-    Search by Criteria: Users can specify cuisine type, meal type, and ingredients to find recipes.
-    Random Recipes: Displays a selection of randomly generated recipes.
-    Clickable Recipes: Each recipe displayed is clickable, directing users to the full recipe details on a new tab.
+   Search by Criteria: Users can specify cuisine type, meal type, and ingredients to find recipes.
+   Random Recipes: Displays a selection of randomly generated recipes.
+   Clickable Recipes: Each recipe displayed is clickable, directing users to the full recipe details on a new tab.
 
 # Technologies Used
 
@@ -26,10 +26,8 @@ To run this project locally, follow these steps:
 
   1.Clone the repository:
 
-    bash
-
-    git clone <repository-url>
-    cd recipe_generator
+    git clone https://github.com/Himani2615/Recipe_Generator
+    cd Recipe_Generator
 
   2.Install dependencies:
         No additional dependencies are required for the frontend setup.
@@ -60,10 +58,14 @@ To run this project locally, follow these steps:
 Contributions to improve and enhance the Recipe Generator project are welcome! Please follow these steps to contribute:
 
   1.Fork the repository and create a new branch.
+  
   2.Make your changes and test thoroughly.
+  
   3.Commit your changes with descriptive commit messages.
+  
   4.Push your changes to your fork and submit a pull request.
+
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
